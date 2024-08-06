@@ -1,0 +1,5 @@
+soundcard
+numpy
+scipy
+ShazamAPI
+pyperclip
